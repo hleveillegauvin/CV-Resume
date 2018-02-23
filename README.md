@@ -2,7 +2,6 @@
 
 ## Hubert Léveillé Gauvin 
 
-Curriculum Vitae &amp; Résumé
 ----------------------
 
 Hubert Léveillé Gauvin is a Ph.D. candidate in music theory at the Ohio State University. He’s interested in compositional and production practices in popular music. More specifically, his work examines paradigmatic changes in socio-cultural and economic environments and their impact on music.
@@ -10,6 +9,8 @@ Hubert Léveillé Gauvin is a Ph.D. candidate in music theory at the Ohio State 
 Last name: Léveillé Gauvin; First name: Hubert
 
 [Google Scholar](https://goo.gl/Q5D8KA) [ResearchGate](https://www.researchgate.net/profile/Hubert_Leveille_Gauvin) [LinkedIn](https://www.linkedin.com/notifications/) [Twitter](https://twitter.com/hleveillegauvin)
+
+Curriculum Vitae &amp; Résumé
 
 * * *
 
