@@ -10,8 +10,6 @@ Last name: Léveillé Gauvin; First name: Hubert
 
 [Google Scholar](https://goo.gl/Q5D8KA) [ResearchGate](https://www.researchgate.net/profile/Hubert_Leveille_Gauvin) [LinkedIn](https://www.linkedin.com/notifications/) [Twitter](https://twitter.com/hleveillegauvin)
 
-Curriculum Vitae &amp; Résumé
-
 * * *
 
 ### **EDUCATION**
