@@ -1,8 +1,8 @@
 # CV-Resume
+
+## Hubert Léveillé Gauvin 
+
 Curriculum Vitae &amp; Résumé
-
-
-Hubert Léveillé Gauvin
 ----------------------
 
 Hubert Léveillé Gauvin is a Ph.D. candidate in music theory at the Ohio State University. He’s interested in compositional and production practices in popular music. More specifically, his work examines paradigmatic changes in socio-cultural and economic environments and their impact on music.
@@ -13,7 +13,7 @@ Last name: Léveillé Gauvin; First name: Hubert
 
 * * *
 
-**EDUCATION**
+### **EDUCATION**
 
 McGill University, Montréal (QC)    2015
 
@@ -25,7 +25,7 @@ McGill University, Montréal (QC)    2012
 
 B.Mus., Music Theory, Music History (minor)
 
-**PUBLICATIONS**
+### **PUBLICATIONS**
 
 Duinker, B., & **Léveillé Gauvin, H.** (2017). Changing Content in Flagship Music Theory Journals, 1979–2014. _Music Theory Online_, 23(4). \[[html](http://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.duinker.html)\]
 
@@ -51,7 +51,7 @@ Devaney, J., & **Léveillé Gauvin, H**. (2016). Representing and Linking Music 
 
 **Léveillé Gauvin, H**. (2015). Three Empirical Studies on the Evolution of Musical Syntax in Popular Music from the 1960s. M.A. Thesis, McGill University, Canada. [\[pdf\]](http://digitool.library.mcgill.ca/thesisfile135460.pdf)
 
-**PRESENTATIONS & POSTER SESSIONS**
+### **PRESENTATIONS & POSTER SESSIONS**
 
 **Léveillé Gauvin, H**. Analyzing recent popular music using attention economy principles.
 
@@ -123,6 +123,6 @@ Duinker, B., & **Léveillé Gauvin, H.**. Trends in Music Theory Scholarship: A
 
 •  Paper presented at the Graduate Student Conference of University of Toronto, Canada (March 30, 2014) 
 
-**EMAIL ADDRESS**
+### **EMAIL ADDRESS**
 
 leveillegauvin.1 \[at\] osu.edu
